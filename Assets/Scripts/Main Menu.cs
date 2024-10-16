@@ -7,7 +7,7 @@ public class NewBehaviourScript : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene("Roll-a-Ball_Level_1_Owen");
+        SceneManager.LoadScene("Owen_Hospital_Level");
     }
 
 
