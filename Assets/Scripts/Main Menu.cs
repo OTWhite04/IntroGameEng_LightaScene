@@ -15,6 +15,10 @@ public class NewBehaviourScript : MonoBehaviour
         SceneManager.LoadScene("Story_Menu");
     }
    
+    public void BackToMainMenu()
+    {
+        SceneManager.LoadScene("Title Screen");
+    }
     public void QuitGame()
     {
         Application.Quit();
