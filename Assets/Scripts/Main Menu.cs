@@ -10,7 +10,11 @@ public class NewBehaviourScript : MonoBehaviour
         SceneManager.LoadScene("Owen_Hospital_Level");
     }
 
-
+    public void Settings()
+    {
+        SceneManager.LoadScene("Story_Menu");
+    }
+   
     public void QuitGame()
     {
         Application.Quit();
