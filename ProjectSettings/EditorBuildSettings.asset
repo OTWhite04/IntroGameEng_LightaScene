@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title Screen.unity
+    guid: fedce482b69746e48a1ed956587ba8db
+  - enabled: 1
+    path: Assets/Scenes/Story_Menu.unity
+    guid: f4922b9bdcc6f0449a0dde6f13224cda
+  - enabled: 1
+    path: Assets/Scenes/Owen_Hospital_Level.unity
+    guid: ea2834d2f0f52dc4d87c2bdda2cc63be
   m_configObjects: {}
