@@ -12,7 +12,7 @@ public class NewBehaviourScript : MonoBehaviour
 
     public void Settings()
     {
-        SceneManager.LoadScene("Story_Menu");
+        SceneManager.LoadScene("Controls_Menu");
     }
    
     public void BackToMainMenu()

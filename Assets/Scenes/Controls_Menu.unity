@@ -672,7 +672,7 @@ GameObject:
   - component: {fileID: 1034761970}
   - component: {fileID: 1034761969}
   m_Layer: 5
-  m_Name: Story Text
+  m_Name: Controls Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -804,7 +804,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1148637141}
   m_Layer: 0
-  m_Name: Story Texts
+  m_Name: Controls Texts
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -839,7 +839,7 @@ GameObject:
   - component: {fileID: 1521716895}
   - component: {fileID: 1521716894}
   m_Layer: 5
-  m_Name: Story Text (1)
+  m_Name: Controls Text (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
