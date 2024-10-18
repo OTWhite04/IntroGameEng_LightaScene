@@ -884,9 +884,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\tWelcome to your worst nightmare, or use the arrow keys or WASD to move
-    around the Hospital and the F key to turn on your Flashlight, after all, you
-    never know what could be around the corner."
+  m_text: "\tTo move around the Hospital use the arrow keys or WASD and the F key
+    to turn your Flashlight on and off, after all, you never know what could be around
+    the corner..."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
