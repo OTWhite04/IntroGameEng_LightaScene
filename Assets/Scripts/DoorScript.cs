@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Playables;
 
-public class TempScript : MonoBehaviour
+public class DoorTrigger : MonoBehaviour
 {
     public PlayableDirector timeline;
 
